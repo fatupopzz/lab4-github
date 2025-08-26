@@ -7,6 +7,8 @@ Laboratorio colaborativo para aprender Git y GitHub, enfocado en trabajo con ram
 - **Fatima** - Coordinadora y resolutora de conflictos
 - **Adrian Penagos** - Carne 2914, aspirante a UI/UX Designer
 - **Jose Sanchez** - Carne 24092, interesado en deportes y musica
+- **Jose Sanchez** - Carne 24852, interesando en la inteligencia artificial generativa
+
 
 ## Estructura del Proyecto
 ```
@@ -16,7 +18,8 @@ lab4-github/
 ├── equipo/
 │   ├── fatima.md          # Informacion personal de Fatima
 │   ├── adrian.md          # Informacion personal de Adrian
-│   └── jose.md            # Informacion personal de Jose
+│   └── jose.md
+|   └── juan.md            # Informacion personal de Jose
 └── screenshots/           # Capturas del proceso (opcional)
 ```
 
