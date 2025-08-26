@@ -20,8 +20,8 @@ lab4-github/
 │   ├── fatima.md          # Informacion personal de Fatima
 │   ├── adrian.md          # Informacion personal de Adrian
 │   └── jose.md
-|   └── juan.md            # Informacion personal de Jose
-└── screenshots/           # Capturas del proceso (opcional)
+|   └── juan.md
+    └── daniel.md          
 ```
 
 ## Proceso de Desarrollo
