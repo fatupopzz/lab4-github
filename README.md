@@ -4,10 +4,11 @@
 Laboratorio colaborativo para aprender Git y GitHub, enfocado en trabajo con ramas, resolucion de conflictos y flujo de trabajo en equipo.
 
 ## Integrantes del Equipo
-- **Fatima** - Coordinadora y resolutora de conflictos
-- **Adrian Penagos** - Carne 2914, aspirante a UI/UX Designer
+- **Fatima** - 24044, fanatica del kpop coreano y de la coca cola
+- **Adrian Penagos** - Carne 2914, le gustan las bananas, demasiado.
 - **Jose Sanchez** - Carne 24092, interesado en deportes y musica
-- **Juan Gualim** - Carne 24852, interesando en la inteligencia artificial generativa
+- **Juan Gualim** - Carne 24852, le gusta pollo campero y las alitas de queso
+- **Harry Mendez** - Carne 24089, le interesa la musica y ser derecho
 
 
 ## Estructura del Proyecto
