@@ -176,3 +176,6 @@ git blame [archivo]         # Ver quien modifico cada linea
 **Responsable de resolucion:** Fatima  
 **Colaboradores:** Adrian Penagos, Jose Sanchez, Gualim, Daniel y Harry  
 **Objetivo alcanzado:** Comprension practica de resolucion de conflictos en Git
+
+<img width="2272" height="632" alt="image" src="https://github.com/user-attachments/assets/5392d7ff-d35d-4df7-b99f-0977e78517a2" />
+
