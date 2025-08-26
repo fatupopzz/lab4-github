@@ -7,7 +7,7 @@ Laboratorio colaborativo para aprender Git y GitHub, enfocado en trabajo con ram
 - **Fatima** - Coordinadora y resolutora de conflictos
 - **Adrian Penagos** - Carne 2914, aspirante a UI/UX Designer
 - **Jose Sanchez** - Carne 24092, interesado en deportes y musica
-- **Jose Sanchez** - Carne 24852, interesando en la inteligencia artificial generativa
+- **Juan Gualim** - Carne 24852, interesando en la inteligencia artificial generativa
 
 
 ## Estructura del Proyecto
@@ -30,6 +30,7 @@ lab4-github/
 - **fatima-branch**: Rama de desarrollo de Fatima
 - **Adrian_Pen**: Rama de desarrollo de Adrian
 - **jose_branch**: Rama de desarrollo de Jose
+- **gualim_branch**: Rama de desarrollo de Juan
 
 ### Workflow Implementado
 1. Cada integrante trabajo en su rama personal
