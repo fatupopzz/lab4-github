@@ -9,6 +9,7 @@ Laboratorio colaborativo para aprender Git y GitHub, enfocado en trabajo con ram
 - **Jose Sanchez** - Carne 24092, interesado en deportes y musica
 - **Juan Gualim** - Carne 24852, le gusta pollo campero y las alitas de queso
 - **Harry Mendez** - Carne 24089, le interesa la musica y ser derecho
+- **Daniel Sandoval** - Daniel Sandoval
 
 
 ## Estructura del Proyecto
