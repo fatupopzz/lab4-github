@@ -9,3 +9,8 @@ Me gustan los deportes y la música.
 Hola, mi nombre es Juan Gualim carnet 24852.
 Me gusta mucho realizar deportes y actividades al aire libre.
 Estoy muy interesado en aprender sobre inteligencia artificial, en temas como machine learning o deep learning
+
+Hola, mi nombre es Harry Daniel Mendez Mendoza con el carnet 24089. 
+    Me gustan mucho los animales, la musica y los videojuegos. 
+    Mi deporte favorito es el Volleyball y la natacion.
+    Me gusta mucho la clase de plataformas moviles. 
