@@ -170,6 +170,7 @@ git blame [archivo]         # Ver quien modifico cada linea
 - Documentacion: README.md con proceso completo documentado
 
 ---
+<img width="2258" height="906" alt="image" src="https://github.com/user-attachments/assets/f5e3b7c0-8c01-4fde-b389-fabba0f94f9e" />
 
 **Laboratorio completado exitosamente**
 
